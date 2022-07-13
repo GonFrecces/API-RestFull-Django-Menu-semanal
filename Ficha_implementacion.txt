@@ -1,0 +1,19 @@
+Django = version 3.0.14
+Django rest full framework version = 3.13.1
+Python version = 3.8.10
+
+
+urls postman = 
+API Root GET POSTMAN = http://127.0.0.1:8000/api/
+Menu GET POSTMAN= http://127.0.0.1:8000/api/menu/
+Menu por dia ejemplo (Lunes) GET POSTMAN = http://127.0.0.1:8000/api/menu/1/
+Listado de platos = http://127.0.0.1:8000/api/plato/
+Listado de ingredientes GET POSTMAN  = http://127.0.0.1:8000/api/Ingredientes/
+Filtro platos ejemplo GET POSTMAN = http://127.0.0.1:8000/api/plato/1/
+Filtro ingredientes ejemplo GET POSTMAN = http://127.0.0.1:8000/api/Ingredientes/1/
+Eliminar ingrediente DELETE POSTMAN = http://127.0.0.1:8000/api/Ingredientes/1/
+
+
+Swagger = http://127.0.0.1:8000/swagger/
+
+DATOS DEL PROYECTO 
